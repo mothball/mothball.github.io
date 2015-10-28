@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+tags: nba basketball
 ---
 
 Next I can update my site name, avatar and other options using the _config.yml file in the root of my repository (shown below).
