@@ -287,3 +287,37 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+@import "poole";
+@import "lanyon";
+@import "tags";
+
+
+/* Links
+-------------------------------------------------- */
+
+a {
+  font-weight: inherit;
+  line-height: inherit;
+  color: #222;
+  text-decoration: none;
+  -webkit-transition: all .2s ease-in-out;
+     -moz-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+}
+a:hover {
+  color: #000;
+}
+
+h1 a {
+  border-bottom: 0;
+}
+
+.posts a,
+.footer a {
+  border-bottom: 1px solid #ddd;
+}
+
+.posts a:hover,
+.footer a:hover {
+  border-bottom-color: #000;
+}
