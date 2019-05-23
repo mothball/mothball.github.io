@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Physics
+permalink: /physics/
 ---
 
 Here is a curated list of resources that I have found to be helpful while I explore the following subject areas.
