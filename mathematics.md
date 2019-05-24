@@ -8,8 +8,25 @@ Here is a curated list of resources that I have found to be helpful while I expl
 
 ### Resources by Subject
 
-* [Mathematics]({{ site.baseurl }}/mathematics "Mathematics")
-* [Physics]({{ site.baseurl }}/physics "Physics")
-* [Sports]({{ site.baseurl }}/sports "Sports")
-* [Miscellaneous]({{ site.baseurl }}/miscellaneous "Miscellaneous")
-* [Bookshelf]({{ site.baseurl }}/bookshelf "Bookshelf")
+* Textbooks
+  * Algebra
+    * Abstract Algebra
+      * Hungerford
+      * Dummit & Foote
+  * Analysis
+    * Differential Equations
+      * Perko
+    * Numerical Analysis
+      * Demmel
+  * Geometry
+    * Topology
+      * Munkres
+      * Bredon
+      * Hatcher
+  * General
+    * Princeton Companion to Mathematics
+    * Princeton Compantion to Applied Mathematics
+* Competitions
+* General Audience
+* Blogs
+  * [Terrance Tao](https://terrytao.wordpress.com "Terrance Tao"){:target="_blank"}

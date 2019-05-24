@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Resources
 permalink: /about/
 ---
 
-Here is a curated list of resources that I have found to be helpful while I explore the following subject areas.
+Here is a curated list of resources that I have found to be helpful while exploring the following subject areas.
 
 ### Resources by Subject
 

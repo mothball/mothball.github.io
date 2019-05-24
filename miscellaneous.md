@@ -8,8 +8,10 @@ Here is a curated list of resources that I have found to be helpful while I expl
 
 ### Resources by Subject
 
-* [Mathematics]({{ site.baseurl }}/mathematics "Mathematics")
-* [Physics]({{ site.baseurl }}/physics "Physics")
-* [Sports]({{ site.baseurl }}/sports "Sports")
-* [Miscellaneous]({{ site.baseurl }}/miscellaneous "Miscellaneous")
-* [Bookshelf]({{ site.baseurl }}/bookshelf "Bookshelf")
+* Philosophy
+  * [The Stone](https://www.nytimes.com/column/the-stone "The Stone")
+* Economics
+  * [Marginal Revolution](https://marginalrevolution.com "Marginal Revolution")
+* History
+* Literature
+* Music
